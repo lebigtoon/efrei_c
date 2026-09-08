@@ -1,0 +1,7 @@
+# Binaires compilés
+/tests
+/benchmark
+
+# Objets et divers
+*.o
+*.out
